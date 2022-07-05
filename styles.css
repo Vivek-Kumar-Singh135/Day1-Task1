@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+.table {
+    background-color: gray;
+    height: 300px;
+}
+
+.topics {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.fullform {
+    padding-left: 10px;
+}
+
+.description {
+    padding-left: 10px;
+}
+
+.break {
+    height: 5px;
+}
+
+.image {
+    padding-left: 10px;
+}
+
+.headimg {
+    border-radius: 50%;
+}
